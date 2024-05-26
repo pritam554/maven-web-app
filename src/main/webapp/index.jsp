@@ -1,12 +1,14 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to my Webpage <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://www.linkedin.com/in/pritam-banik/">Click Here To See my Linkedin Profile</a>
+
+  <a href="https://coderocksmania.blogspot.com/">Click Here To See my Blog</a>
+
+  <h2> Contact  : 8587941103 </h2>
   
-  <h2> Call Us : + 9985396677</h2>
-  
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Location : Kolkata </h3>
 
 </body>
 </html>
