@@ -6,7 +6,7 @@
 
   <a href="https://coderocksmania.blogspot.com/">Click Here To See my Blog</a>
   
-  <h2> Location : Kolkata, India </h2>
+  <h2> Location : Noida, India </h2>
 
 </body>
 </html>
