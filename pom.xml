@@ -7,10 +7,6 @@
   <version>3.0-RELEASE</version>
   <name>01-maven-web-app</name>
   <url>http://maven.apache.org</url>
-   <properties>
-	<sonar.host.url>http://65.2.178.62:9000/</sonar.host.url>
-	<sonar.login>165390926485ad16b030efce35b8a8b94320f81b</sonar.login>
-  </properties>
 
   <dependencies>
     <dependency>
