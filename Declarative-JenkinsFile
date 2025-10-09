@@ -1,17 +1,17 @@
 pipeline {
     agent any
     
-    tools{
+    tools {
         maven "Maven-3.9.11"
     }
 
     stages {
         stage('Clone') {
             steps {
-                git 'https://github.com/pritam554/maven-web-app.git'
+                git branch: 'main', url: 'https://github.com/pritam554/maven-web-app.git'
             }
         }
-         stage('Build') {
+        stage('Build') {
             steps {
                 sh 'mvn clean package'
             }
